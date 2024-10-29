@@ -1,72 +1,72 @@
-{
-    id: 1,
-    name: 'Inception',
-    rating: 8,
-    image:
-      'https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg',
-    genre: 'Sci-Fi',
+[
+  {
+    "id": 1,
+    "name": "Inception",
+    "rating": 8,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
+    "genre": "Sci-Fi"
   },
   {
-    id: 2,
-    name: 'The Dark Knight',
-    rating: 9,
-    image: 'https://image.tmdb.org/t/p/w500/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg',
-    genre: 'Action',
+    "id": 2,
+    "name": "The Dark Knight",
+    "rating": 9,
+    "image": "https://image.tmdb.org/t/p/w500/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg",
+    "genre": "Action"
   },
   {
-    id: 3,
-    name: 'Forrest Gump',
-    rating: 8,
-    image: 'https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg',
-    genre: 'Drama',
+    "id": 3,
+    "name": "Forrest Gump",
+    "rating": 8,
+    "image": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+    "genre": "Drama"
   },
   {
-    id: 4,
-    name: 'The Shawshank Redemption',
-    rating: 9,
-    image: 'https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg',
-    genre: 'Drama',
+    "id": 4,
+    "name": "The Shawshank Redemption",
+    "rating": 9,
+    "image": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "genre": "Drama"
   },
   {
-    id: 5,
-    name: 'The Godfather',
-    rating: 9,
-    image: 'https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg',
-    genre: 'Crime',
+    "id": 5,
+    "name": "The Godfather",
+    "rating": 9,
+    "image": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "genre": "Crime"
   },
   {
-    id: 6,
-    name: 'The Matrix',
-    rating: 8,
-    image: 'https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg',
-    genre: 'Action',
+    "id": 6,
+    "name": "The Matrix",
+    "rating": 8,
+    "image": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "genre": "Action"
   },
   {
-    id: 7,
-    name: 'Interstellar',
-    rating: 8,
-    image: 'https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg',
-    genre: 'Adventure',
+    "id": 7,
+    "name": "Interstellar",
+    "rating": 8,
+    "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "genre": "Adventure"
   },
   {
-    id: 8,
-    name: 'Gladiator',
-    rating: 8,
-    image:
-      'https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_.jpg',
-    genre: 'Action',
+    "id": 8,
+    "name": "Gladiator",
+    "rating": 8,
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_.jpg",
+    "genre": "Action"
   },
   {
-    id: 9,
-    name: "Schindler's List",
-    rating: 8,
-    image: 'https://image.tmdb.org/t/p/w500/c8Ass7acuOe4za6DhSattE359gr.jpg',
-    genre: 'Drama',
+    "id": 9,
+    "name": "Schindler's List",
+    "rating": 8,
+    "image": "https://image.tmdb.org/t/p/w500/c8Ass7acuOe4za6DhSattE359gr.jpg",
+    "genre": "Drama"
   },
   {
-    id: 10,
-    name: 'Parasite',
-    rating: 8,
-    image: 'https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg',
-    genre: 'Thriller',
-  },
+    "id": 10,
+    "name": "Parasite",
+    "rating": 8,
+    "image": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "genre": "Thriller"
+  }
+]
