@@ -103,5 +103,75 @@
     "rating": 8,
     "image": "https://image.tmdb.org/t/p/w500/8BgaOiKz2q26j8Wsoxj2Jd3LRgM.jpg",
     "genre": "Action"
+  },
+  {
+    "id": 16,
+    "name": "The Lion King",
+    "rating": 9,
+    "image": "https://image.tmdb.org/t/p/w500/4WoUUnUgdZJ9Q05XH3QofgYOi9G.jpg",
+    "genre": "Animation"
+  },
+  {
+    "id": 17,
+    "name": "Titanic",
+    "rating": 8,
+    "image": "https://image.tmdb.org/t/p/w500/wtHnKBeXfQHTRbsJ60yzP1krFAT.jpg",
+    "genre": "Romance"
+  },
+  {
+    "id": 18,
+    "name": "Saving Private Ryan",
+    "rating": 9,
+    "image": "https://image.tmdb.org/t/p/w500/2I5lmIK7CH0LlxGvSvOYc47hsfT.jpg",
+    "genre": "War"
+  },
+  {
+    "id": 19,
+    "name": "Avatar",
+    "rating": 8,
+    "image": "https://image.tmdb.org/t/p/w500/54uvjFrhdH2ZYl7ej73e4yFzG7s.jpg",
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 20,
+    "name": "The Social Network",
+    "rating": 8,
+    "image": "https://image.tmdb.org/t/p/w500/uI3K4CvN4dG2Md0MBZ6CklS2cqN.jpg",
+    "genre": "Biography"
+  },
+  {
+    "id": 21,
+    "name": "The Departed",
+    "rating": 8,
+    "image": "https://image.tmdb.org/t/p/w500/jMmJX6djpWfJ9kFA3D9xfJk69Zm.jpg",
+    "genre": "Crime"
+  },
+  {
+    "id": 22,
+    "name": "The Usual Suspects",
+    "rating": 8,
+    "image": "https://image.tmdb.org/t/p/w500/30Kg4DuoTYDwF57CLLw0bG3IT6M.jpg",
+    "genre": "Crime"
+  },
+  {
+    "id": 23,
+    "name": "12 Angry Menn",
+    "rating": 9,
+    "image": "https://image.tmdb.org/t/p/w500/qGuEkv4JmnX8HYJ10cnpFmkhpMm.jpg",
+    "genre": "Drama"
+  },
+  {
+    "id": 24,
+    "name": "Memento",
+    "rating": 8,
+    "image": "https://image.tmdb.org/t/p/w500/6L0TAx9yMK5Ak06V8H0gy1Etch9.jpg",
+    "genre": "Thriller"
+  },
+  {
+    "id": 25,
+    "name": "Se7en",
+    "rating": 8,
+    "image": "https://image.tmdb.org/t/p/w500/ziYp5Lqg1ef3U8vZ8St8X3K9bUp.jpg",
+    "genre": "Thriller"
   }
 ]
