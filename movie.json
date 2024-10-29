@@ -3,175 +3,105 @@
     "id": 1,
     "name": "Inception",
     "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/Inception_1.png?v=1571606571",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
     "genre": "Sci-Fi"
   },
   {
     "id": 2,
     "name": "The Dark Knight",
     "rating": 9,
-    "image": "https://hcgart.com/cdn/shop/products/TheDarkKnight.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg",
     "genre": "Action"
   },
   {
     "id": 3,
     "name": "Forrest Gump",
     "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/ForrestGump.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
     "genre": "Drama"
   },
   {
     "id": 4,
     "name": "The Shawshank Redemption",
     "rating": 9,
-    "image": "https://hcgart.com/cdn/shop/products/Shawshank.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
     "genre": "Drama"
   },
   {
     "id": 5,
     "name": "The Godfather",
     "rating": 9,
-    "image": "https://hcgart.com/cdn/shop/products/TheGodfather.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
     "genre": "Crime"
   },
   {
     "id": 6,
     "name": "The Matrix",
     "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/TheMatrix.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
     "genre": "Action"
   },
   {
     "id": 7,
     "name": "Interstellar",
     "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/Interstellar.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
     "genre": "Adventure"
   },
   {
     "id": 8,
     "name": "Gladiator",
     "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/Gladiator.png?v=1571606571",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_.jpg",
     "genre": "Action"
   },
   {
     "id": 9,
     "name": "Schindler's List",
     "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/SchindlersList.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/c8Ass7acuOe4za6DhSattE359gr.jpg",
     "genre": "Drama"
   },
   {
     "id": 10,
     "name": "Parasite",
     "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/Parasite.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
     "genre": "Thriller"
   },
   {
     "id": 11,
     "name": "The Silence of the Lambs",
     "rating": 9,
-    "image": "https://hcgart.com/cdn/shop/products/SilenceoftheLambs.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/7pZa3Gn08kVxJq5Rj9I6VICuT3C.jpg",
     "genre": "Thriller"
   },
   {
     "id": 12,
     "name": "The Lord of the Rings: The Return of the King",
     "rating": 9,
-    "image": "https://hcgart.com/cdn/shop/products/LordoftheRings.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/5N1WgI3W8zckgWz6D1My2VQaRoZ.jpg",
     "genre": "Fantasy"
   },
   {
     "id": 13,
     "name": "Fight Club",
     "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/FightClub.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/3H38T2mFg5WkRmPugC4qc2Vx0lK.jpg",
     "genre": "Drama"
   },
   {
     "id": 14,
     "name": "Pulp Fiction",
     "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/PulpFiction.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/j1zKCMKBg92opNiFPLZlT8pYTTq.jpg",
     "genre": "Crime"
   },
   {
     "id": 15,
     "name": "The Avengers",
     "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/TheAvengers.png?v=1571606571",
+    "image": "https://image.tmdb.org/t/p/w500/8BgaOiKz2q26j8Wsoxj2Jd3LRgM.jpg",
     "genre": "Action"
-  },
-  {
-    "id": 16,
-    "name": "The Lion King",
-    "rating": 9,
-    "image": "https://hcgart.com/cdn/shop/products/TheLionKing.png?v=1571606571",
-    "genre": "Animation"
-  },
-  {
-    "id": 17,
-    "name": "Titanic",
-    "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/Titanic.png?v=1571606571",
-    "genre": "Romance"
-  },
-  {
-    "id": 18,
-    "name": "Saving Private Ryan",
-    "rating": 9,
-    "image": "https://hcgart.com/cdn/shop/products/RobertBrunoSavingPriv.png?v=1571606661",
-    "genre": "War"
-  },
-  {
-    "id": 19,
-    "name": "Avatar",
-    "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/Avatar.png?v=1571606571",
-    "genre": "Sci-Fi"
-  },
-  {
-    "id": 20,
-    "name": "The Social Network",
-    "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/SocialNetwork.png?v=1571606571",
-    "genre": "Biography"
-  },
-  {
-    "id": 21,
-    "name": "The Departed",
-    "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/TheDeparted.png?v=1571606571",
-    "genre": "Crime"
-  },
-  {
-    "id": 22,
-    "name": "The Usual Suspects",
-    "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/UsualSuspects.png?v=1571606571",
-    "genre": "Crime"
-  },
-  {
-    "id": 23,
-    "name": "12 Angry Men",
-    "rating": 9,
-    "image": "https://hcgart.com/cdn/shop/products/12AngryMen.png?v=1571606571",
-    "genre": "Drama"
-  },
-  {
-    "id": 24,
-    "name": "Memento",
-    "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/Memento.png?v=1571606571",
-    "genre": "Thriller"
-  },
-  {
-    "id": 25,
-    "name": "Se7en",
-    "rating": 8,
-    "image": "https://hcgart.com/cdn/shop/products/Se7en.png?v=1571606571",
-    "genre": "Thriller"
   }
 ]
