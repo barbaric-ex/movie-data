@@ -4,104 +4,134 @@
     "name": "Inception",
     "rating": 8,
     "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
-    "genre": "Sci-Fi"
+    "genre": "Sci-Fi",
+    "description": "A mind-bending thriller where a skilled thief is given a chance at redemption if he can successfully perform an impossible heist.",
+    "link": "https://www.imdb.com/title/tt1375666/"
   },
   {
     "id": 2,
     "name": "The Dark Knight",
     "rating": 9,
     "image": "https://image.tmdb.org/t/p/w500/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg",
-    "genre": "Action"
+    "genre": "Action",
+    "description": "Batman faces off against the Joker, a criminal mastermind intent on plunging Gotham into anarchy.",
+    "link": "https://www.imdb.com/title/tt0468569/"
   },
   {
     "id": 3,
     "name": "Forrest Gump",
     "rating": 8,
     "image": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
-    "genre": "Drama"
+    "genre": "Drama",
+    "description": "The extraordinary life story of Forrest Gump, a simple man with a big heart and limitless optimism.",
+    "link": "https://www.imdb.com/title/tt0109830/"
   },
   {
     "id": 4,
     "name": "The Shawshank Redemption",
     "rating": 9,
     "image": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
-    "genre": "Drama"
+    "genre": "Drama",
+    "description": "The story of a banker sentenced to life in Shawshank prison and his quest for freedom.",
+    "link": "https://www.imdb.com/title/tt0111161/"
   },
   {
     "id": 5,
     "name": "The Godfather",
     "rating": 9,
     "image": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-    "genre": "Crime"
+    "genre": "Crime",
+    "description": "The saga of the Corleone crime family as they navigate power and loyalty.",
+    "link": "https://www.imdb.com/title/tt0068646/"
   },
   {
     "id": 6,
     "name": "The Matrix",
     "rating": 8,
     "image": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
-    "genre": "Action"
+    "genre": "Action",
+    "description": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+    "link": "https://www.imdb.com/title/tt0133093/"
   },
   {
     "id": 7,
     "name": "Interstellar",
     "rating": 8,
     "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-    "genre": "Adventure"
+    "genre": "Adventure",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "link": "https://www.imdb.com/title/tt0816692/"
   },
   {
     "id": 8,
     "name": "Gladiator",
     "rating": 8,
     "image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_.jpg",
-    "genre": "Action"
+    "genre": "Action",
+    "description": "A betrayed Roman general seeks revenge against the corrupt emperor who ruined his life.",
+    "link": "https://www.imdb.com/title/tt0172495/"
   },
   {
     "id": 9,
     "name": "Schindler's List",
     "rating": 8,
     "image": "https://image.tmdb.org/t/p/w500/c8Ass7acuOe4za6DhSattE359gr.jpg",
-    "genre": "Drama"
+    "genre": "Drama",
+    "description": "The true story of a businessman who saved the lives of more than a thousand Polish Jews during the Holocaust.",
+    "link": "https://www.imdb.com/title/tt0108052/"
   },
   {
     "id": 10,
     "name": "Parasite",
     "rating": 8,
     "image": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
-    "genre": "Thriller"
+    "genre": "Thriller",
+    "description": "A poor family schemes to become employed by a wealthy family and infiltrate their household.",
+    "link": "https://www.imdb.com/title/tt6751668/"
   },
   {
     "id": 11,
     "name": "The Silence of the Lambs",
     "rating": 9,
     "image": "https://play-lh.googleusercontent.com/8Zyaxu-u4c_mfuC37GPGRUqiuTDLDjthcXY3NU6THy_nOvzG82zIBX9QkVe44UPNvcU",
-    "genre": "Thriller"
+    "genre": "Thriller",
+    "description": "A young FBI cadet must confide in an incarcerated and manipulative killer to catch another serial killer.",
+    "link": "https://www.imdb.com/title/tt0102926/"
   },
   {
     "id": 12,
     "name": "The Lord of the Rings: The Return of the King",
     "rating": 9,
     "image": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_.jpg",
-    "genre": "Fantasy"
+    "genre": "Fantasy",
+    "description": "The final battle for Middle-earth begins as Frodo and Sam approach Mount Doom to destroy the One Ring.",
+    "link": "https://www.imdb.com/title/tt0167260/"
   },
   {
     "id": 13,
     "name": "Fight Club",
     "rating": 8,
     "image": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_.jpg",
-    "genre": "Drama"
+    "genre": "Drama",
+    "description": "An insomniac office worker forms an underground fight club that spirals out of control.",
+    "link": "https://www.imdb.com/title/tt0137523/"
   },
   {
     "id": 14,
     "name": "Pulp Fiction",
     "rating": 8,
     "image": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_.jpg",
-    "genre": "Crime"
+    "genre": "Crime",
+    "description": "The lives of two mob hitmen, a boxer, and others intertwine in a series of vignettes.",
+    "link": "https://www.imdb.com/title/tt0110912/"
   },
   {
     "id": 15,
     "name": "The Avengers",
     "rating": 8,
     "image": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "genre": "Action"
+    "genre": "Action",
+    "description": "Earth's mightiest heroes must come together to stop a threat that could destroy the planet.",
+    "link": "https://www.imdb.com/title/tt0848228/"
   }
 ]
